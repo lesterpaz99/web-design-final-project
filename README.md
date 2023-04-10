@@ -1,3 +1,3 @@
 # web-design-final-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-3cnnee)
+[I made this project on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-3cnnee)
